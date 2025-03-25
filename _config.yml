@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Jinhui Ouyang"
 title_separator          : "-"
 name                     : &name "Jinhui Ouyang"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jinhui Ouyang"
   pronouns         : # he/his"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
