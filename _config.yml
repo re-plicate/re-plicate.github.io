@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "google头像.jpg"
+  avatar           : "google.jpg"
   name             : "Jinhui Ouyang"
   pronouns         : # he/his"  
   bio              : "Jinhui Ouyang has a multidisciplinary background in AI, brain-computer interfaces (BCI), and edge computing. He holds a degree from Hunan University and has research experience in hardware development, deeping learning,  cyber-physical Systems, and interactive design. Jinhui has received some awards including National Scholarship. He aspires to contribute to neuroscience and intelligent systems through innovative research."
