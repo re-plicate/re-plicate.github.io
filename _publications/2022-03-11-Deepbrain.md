@@ -2,9 +2,9 @@
 title: "DeepBrain: Enabling fine-grained brain-robot interaction through human-centered learning of coarse EEG signals from low-cost devices"
 collection: publications
 category: conferences
-permalink: /publication/2022
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022
+permalink: /publication/2022-03-11-Deepbrain
+excerpt: ''
+date: 2022-03-11
 venue: 'Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies'
 slidesurl: ''
 paperurl: ''
