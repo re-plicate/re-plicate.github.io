@@ -1,16 +1,16 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://scholar.google.com/citations?user=wyXKycAAAAAJ&hl=zh-CN)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+He graduated from Hunan University and previously worked as a research assistant at HKUST. He is currently an IoT architect at a semiconductor company and is actively seeking PhD opportunities in related fields.
 
 #### Email
-sli[at]cumt.edu.cn
+oldyoung[at]hnu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Design (Data Intelligence and Service Design), Hunan University, 2021—2024.\
+B.E., Mechanical Engineering (Vehicle Engineering), Hunan University, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Ubiquitous Computing, HCI, Cyber-Physical Systems, Deep Learning
 

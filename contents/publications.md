@@ -1,12 +1,20 @@
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, K. Fan, Y. Liu, C. Wang, and Q.Niu . LaNCoR: Label Noise-Contrastive Robust Learning for Seismic Signal Processing with Application to Microseismic Arrival Time Picking. <strong>In Revision.</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Jinhui Ouyang</strong>, Mingzhu Wu, Xinglin Li, Hanhui Deng, Zhanpeng Jin, Di Wu. “NeuroBCI: Multi-Brain to Multi-Robot Interaction through EEG-Adaptive Neural Networks and Semantic Communications.” IEEE Transactions on Mobile Computing (TMC), 2024. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Jinhui Ouyang<strong>, Mingxia Yu, Weiren Yu, Zheng Qin, Amelia C Regan, Di Wu. “TPGraph: A Spatial-Temporal Graph Learning Framework for Accurate Traffic Prediction on Arterial Roads.” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Code]](https://github.com/senli1073/LaNCor)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+-Xinglin Li, Hanhui Deng, <strong>Jinhui Ouyang<strong>, Huayan Wan, Weiren Yu, Di Wu. “Act as What You Think: Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning.” IEEE Transactions on Mobile Computing (TMC), 2024.
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- Hanhui Deng, Jianan Jiang, Zhiwang Yu, <strong>Jinhui Ouyang<strong>, Di Wu. “CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2024.
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- Di Wu*, <strong>Jinhui Ouyang*<strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Hanhui Deng, Yongmei Fan, Dakuo Wang, Zhanpeng Jin. “DeepBrain: Enabling Fine-Grained Brain-Robot Interaction through Human centered Learning of Coarse EEG Signals from Low-Cost Devices.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2023.
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- Xinglin Li, Jiajing Chen, <strong>Jinhui Ouyang<strong>, Hanhui Deng, Senem Velipasalar, Di Wu. “ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling.” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+
+- <strong>Jinhui Ouyang<strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Di Wu. “Getting the BCI We Want: Exploring Brain to Multi-Robot Interaction with Affordable Personalization for Everyday Accessibility.” (TOCHI, under review).
+
+- <strong>Jinhui Ouyang<strong>, Yyijie Zhu, Xiang Yuan, Di Wu. “TrafficGPT: Towards Multi-Scale Traffic Analysis and Generation with Spatial-Temporal Agent Framework”, arXiv:2405.05985. (UbiComp, major revision)
+
+- Peixuan Xiong*, <strong>Jinhui Ouyang*<strong>, Zhiqing Wu, Yukai Zhang, Chen Gong, Yuling Wang, Mingming Fan.“Toward Designing Motor Imagery-Driven Hand Redirection in Virtual Reality for Upper Limb Rehabilitation.” (Ubicomp, major revision)
+
+- Qinghua Guan*, <strong>Jinhui Ouyang*<strong>, Weiren Yu, Di Wu. “CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System.”, arXiv:2405.14691. (UbiComp, under review)
 
