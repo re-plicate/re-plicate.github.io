@@ -10,11 +10,10 @@
 
 - Xinglin Li, Jiajing Chen, <strong>Jinhui Ouyang</strong>, Hanhui Deng, Senem Velipasalar, Di Wu. “ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling.” IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
 
-- <strong>Jinhui Ouyang</strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Di Wu. “Getting the BCI We Want: Exploring Brain to Multi-Robot Interaction with Affordable Personalization for Everyday Accessibility.” (TOCHI, under review).
-
 - <strong>Jinhui Ouyang</strong>, Yyijie Zhu, Xiang Yuan, Di Wu. “TrafficGPT: Towards Multi-Scale Traffic Analysis and Generation with Spatial-Temporal Agent Framework”, arXiv:2405.05985. (UbiComp, major revision)
 
 - Peixuan Xiong*, <strong>Jinhui Ouyang*</strong>, Zhiqing Wu, Yukai Zhang, Chen Gong, Yuling Wang, Mingming Fan.“Toward Designing Motor Imagery-Driven Hand Redirection in Virtual Reality for Upper Limb Rehabilitation.” (Ubicomp, major revision)
 
 - Qinghua Guan*, <strong>Jinhui Ouyang*</strong>, Weiren Yu, Di Wu. “CityGPT: Towards Urban IoT Learning, Analysis and Interaction with Multi-Agent System.”, arXiv:2405.14691. (UbiComp, under review)
 
+- <strong>Jinhui Ouyang</strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Di Wu. “Getting the BCI We Want: Exploring Brain to Multi-Robot Interaction with Affordable Personalization for Everyday Accessibility.” (TOCHI, under review).
