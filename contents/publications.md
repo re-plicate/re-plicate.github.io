@@ -2,7 +2,7 @@
 
 - <strong>Jinhui Ouyang<strong>, Mingxia Yu, Weiren Yu, Zheng Qin, Amelia C Regan, Di Wu. “TPGraph: A Spatial-Temporal Graph Learning Framework for Accurate Traffic Prediction on Arterial Roads.” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. [[Code]](https://github.com/senli1073/LaNCor)
 
--Xinglin Li, Hanhui Deng, <strong>Jinhui Ouyang<strong>, Huayan Wan, Weiren Yu, Di Wu. “Act as What You Think: Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning.” IEEE Transactions on Mobile Computing (TMC), 2024.
+- Xinglin Li, Hanhui Deng, <strong>Jinhui Ouyang<strong>, Huayan Wan, Weiren Yu, Di Wu. “Act as What You Think: Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning.” IEEE Transactions on Mobile Computing (TMC), 2024.
 
 - Hanhui Deng, Jianan Jiang, Zhiwang Yu, <strong>Jinhui Ouyang<strong>, Di Wu. “CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2024.
 
