@@ -1,7 +1,7 @@
-- Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Present
+- Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Dec. 2024
   - Developed BCI + VR system for stroke rehabilitation
 
-- Research Assistant, Hunan University, March 2021 – June 2025
+- Research Assistant, Hunan University, March 2021 – Present
   - Brain-computer Interface Research (2021-2025)
     - Neural network for personalized EEG data adaptation and BCI systems
   - Spatial-Temporal Analysis (2021-2025)
