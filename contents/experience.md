@@ -1,23 +1,14 @@
-- Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Present
-  - Designed EEG and hand position data algorithm for cognitive effort detection
+ Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Present
   - Developed BCI + VR system for stroke rehabilitation
-  - Submitted paper to ACM CHI 2025 (co-primary author)
 
 - Research Assistant, Hunan University, March 2021 – June 2024
   - Brain-computer Interface Research
-    - Developed neural network for personalized EEG data adaptation
-    - Built multi-user to multi-robot control system
-    - Published in ACM UbiComp 2023, IEEE TMC 2023, IEEE TMC 2024
-    - Awarded two Chinese patents
+    - Neural network for personalized EEG data adaptation and BCI systems
   - Spatial-Temporal Analysis
-    - Developed spatiotemporal data mining methods
-    - Built LLM-based traffic prediction system
-    - Published in IEEE T-ITS 2024
+    - Spatiotemporal data mining methods and Agent-based traffic prediction systems
   - Safety-Critical Systems (2021-2022)
-    - Built edge computing platform with attack detection
-  - Design System (2020-2022)
+    - Edge computing platform with attack detection and  edge anomaly CNN transmission detection
+  - Online Collaboration Design Website (2020-2022)
     - Developed reinforcement learning for network resource allocation
-  - Anomaly Detection (2020-2021)
-    - Built adaptive network for edge anomaly detection
-  - Vehicle System (2019-2021)
-    - Developed image-based parking space detection
+  - Automation Vehicle Systems (2020-2021)
+    -  Vision-based parking system
