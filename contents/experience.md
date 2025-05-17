@@ -1,4 +1,4 @@
- Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Present
+- Research Assistant, Hong Kong University of Science and Technology (HKUST), June 2024 – Present
   - Developed BCI + VR system for stroke rehabilitation
 
 - Research Assistant, Hunan University, March 2021 – June 2024
