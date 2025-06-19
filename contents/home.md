@@ -2,7 +2,7 @@
 
 [![Jinhui Ouyang](https://img.shields.io/badge/jinhui%20ouyang-googlescholar-blue?logo=google)](https://scholar.google.com/citations?user=wyXKycAAAAAJ&hl=zh-CN)
 
-I obtained my bachelor's and master's degrees from Hunan University and previously did research at HKUST. I am currently an IoT architect at a semiconductor company and am actively seeking a PhD opportunity.
+I obtained my bachelor's and master's degrees from Hunan University and researched at HKUST. I am currently an IoT architect at a semiconductor company and am actively seeking a PhD opportunity.
 
 #### Email
 oldyoung[at]hnu.edu.cn
