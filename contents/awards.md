@@ -1,6 +1,6 @@
 - Outstanding Graduate Award, 2024.
 
-- National Scholarship for Graduate Student, 2022.
+- Chinese National Scholarship for Graduate Student, 2022.
 
 - Outstanding Graduate Student, 2022.
 
