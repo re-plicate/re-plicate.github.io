@@ -1,5 +1,5 @@
-- IoT architect, Fenghua semiconductor company, Dec. 2024 - presnet
-  - Edge computing for manufacturing equipment with long time span in complex processes.
+- IIoT Engineer\Researcher, Fenghua Semiconductor Company, Dec. 2024 - present
+  - Edge computing for manufacturing equipment with a multi-physical field in complex processes.
   - Research on multi-agent scheduling & the spatiotemporal algorithms for industrial data.
 
 - Research Assistant, Hong Kong University of Science and Technology (GZ), June 2024 – Dec. 2024
