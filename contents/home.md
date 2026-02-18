@@ -12,4 +12,4 @@ M.S., Industrial Engineering (Data Intelligence and Service Design), Hunan Unive
 B.E., Mechanical Engineering (Vehicle Engineering), Hunan University, 2017—2021.
 
 #### Research Interests
-Ubiquitous Computing, Spatial-temporal Learning, Cyber-Physical Systems, Deep Learning
+Ubiquitous Computing, Spatial-temporal Learning, Cyber-Physical Systems, Human-centered Systems
