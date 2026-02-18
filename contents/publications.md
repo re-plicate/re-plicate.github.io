@@ -1,3 +1,7 @@
+<strong>* contributed equally</strong>
+## Journal
+- Di Wu*, <strong>Jinhui Ouyang</strong>, Zhiqing Wu, Qinghua Guan, Xiang Nie, Jinwen Liang, Yanwen Wang, Hanhui Deng. ["LASTS: Toward Scalable Access Control and Resilient Network Management of Mobile IoT on the Edge."](https://ieeexplore.ieee.org/document/11395319) IEEE Transactions on Industrial Informatics (TII), 2026.
+
 - <strong>Jinhui Ouyang</strong>, Mingzhu Wu, Xinglin Li, Hanhui Deng, Zhanpeng Jin, Di Wu. “NeuroBCI: Multi-Brain to Multi-Robot Interaction through EEG-Adaptive Neural Networks and Semantic Communications.” IEEE Transactions on Mobile Computing (TMC), 2024. 
 
 - <strong>Jinhui Ouyang</strong>, Mingxia Yu, Weiren Yu, Zheng Qin, Amelia C Regan, Di Wu. “TPGraph: A Spatial-Temporal Graph Learning Framework for Accurate Traffic Prediction on Arterial Roads.” IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024. 
