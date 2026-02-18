@@ -22,9 +22,9 @@
 
 - Di Wu*, <strong>Jinhui Ouyang*</strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Hanhui Deng, Yongmei Fan, Dakuo Wang, Zhanpeng Jin. [“DeepBrain: Enabling Fine-Grained Brain-Robot Interaction through Human-centered Learning of Coarse EEG Signals from Low-Cost Devices.”](https://dl.acm.org/doi/abs/10.1145/3550334) ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2023.
 
-- <strong>Jinhui Ouyang</strong>, etc. “UbiGraph: Towards Ubiquitous Parking Search and Inference with Graph Learning on Drone Sensing.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2026, resubmit after revision).
+<!-- <strong>Jinhui Ouyang</strong>, etc. “UbiGraph: Towards Ubiquitous Parking Search and Inference with Graph Learning on Drone Sensing.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2026, resubmit after revision)-->.
 
-- J. Zhang, Y. Wang, H. Deng, <strong>Jinhui Ouyang</strong>, D. Wu. “From Mind to Physical Interaction: Design and Evaluation of EEG-Adaptive BRI Collaborative Game to Enhance ADHD Children's Attention Control.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2026, under review).
+<!-- - J. Zhang, Y. Wang, H. Deng, <strong>Jinhui Ouyang</strong>, D. Wu. “From Mind to Physical Interaction: Design and Evaluation of EEG-Adaptive BRI Collaborative Game to Enhance ADHD Children's Attention Control.” ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2026, under review).-->
 
 ## Patent
 - Jinhui Ouyang, Di Wu, Xinglin Li, Mingzhu Wu, “A Personalized Brain–Computer Interaction System for Multi-User and Multi-Edge Intelligent Agents”, Chinese Invention Patent, CN115981462A, Granted, 2026.
