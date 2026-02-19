@@ -26,9 +26,10 @@ I am a researcher and engineer with a strong background in industrial engineerin
 
 ### 🔬 Research Interests
 
-My research focuses on the intersection of artificial intelligence, ubiquitous computing, and cyber-physical systems. Specifically, I am interested in:
+My research focuses on the intersection of human-computer interaction, ubiquitous computing, and cyber-physical systems. Specifically, I am interested in:
 
+- **Human-centered Systems** — Exploring semantic transparency solutions in human-computer interaction
 - **Ubiquitous Computing** — Developing intelligent systems that seamlessly integrate into everyday environments
 - **Spatial-temporal Learning** — Advancing machine learning methods for time-series and spatial data analysis
 - **Cyber-Physical Systems** — Designing robust and efficient IoT architectures for industrial applications
-- **Human-centered Systems** — Exploring semantic transparency solutions in human-computer interaction
+
