@@ -31,4 +31,4 @@ My research focuses on the intersection of artificial intelligence, ubiquitous c
 - **Ubiquitous Computing** — Developing intelligent systems that seamlessly integrate into everyday environments
 - **Spatial-temporal Learning** — Advancing machine learning methods for time-series and spatial data analysis
 - **Cyber-Physical Systems** — Designing robust and efficient IoT architectures for industrial applications
-- **Deep Learning** — Exploring novel neural network architectures for complex pattern recognition tasks
+- **Human-centered Systems** — Exploring semantic transparency solutions in human-computer interaction
