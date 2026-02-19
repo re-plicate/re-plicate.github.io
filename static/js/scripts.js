@@ -85,12 +85,20 @@ window.addEventListener('DOMContentLoaded', event => {
 
 
     // Marked
-    marked.use({ mangle: false, headerIds: false })
+    marked.use({ 
+        mangle: false, 
+        headerIds: false,
+        breaks: false,
+        gfm: true
+    })
     section_names.forEach((name, idx) => {
         fetch(content_dir + name + '.md')
             .then(response => response.text())
             .then(markdown => {
-                const html = marked.parse(markdown);
+                const html = marked.parse(markdown, {
+                    breaks: false,
+                    gfm: true
+                });
                 document.getElementById(name + '-md').innerHTML = html;
             }).then(() => {
                 // MathJax

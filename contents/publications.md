@@ -4,7 +4,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Di Wu*, <strong>Jinhui Ouyang*</strong>, Qinghua Guan, Xiang Nie, Jinwen Liang, Yanwen Wang, Hanhui Deng. <a href="https://ieeexplore.ieee.org/document/11395319">"LASTS: Toward Scalable Access Control and Resilient Network Management of Mobile IoT on the Edge."</a> IEEE Transactions on Industrial Informatics (TII), 2026.
+    - Di Wu*, <strong>Jinhui Ouyang*</strong>, Qinghua Guan, Xiang Nie, Jinwen Liang, Yanwen Wang, Hanhui Deng. ["LASTS: Toward Scalable Access Control and Resilient Network Management of Mobile IoT on the Edge."](https://ieeexplore.ieee.org/document/11395319) IEEE Transactions on Industrial Informatics (TII), 2026.
   </div>
   <div class="pub-fig">
     <img src="static/pub_fig/LASTS Toward Scalable Access Control and Resilient Network Management of Mobile IoT on the Edge.png" alt="LASTS">
@@ -13,7 +13,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - <strong>Jinhui Ouyang</strong>, Mingzhu Wu, Xinglin Li, Hanhui Deng, Zhanpeng Jin, Di Wu. <a href="https://ieeexplore.ieee.org/abstract/document/10643362">"NeuroBCI: Multi-Brain to Multi-Robot Interaction through EEG-Adaptive Neural Networks and Semantic Communications."</a> IEEE Transactions on Mobile Computing (TMC), 2024.
+    - <strong>Jinhui Ouyang</strong>, Mingzhu Wu, Xinglin Li, Hanhui Deng, Zhanpeng Jin, Di Wu. ["NeuroBCI: Multi-Brain to Multi-Robot Interaction through EEG-Adaptive Neural Networks and Semantic Communications."](https://ieeexplore.ieee.org/abstract/document/10643362) IEEE Transactions on Mobile Computing (TMC), 2024.
   </div>
   <div class="pub-fig">
     <img src="static/pub_fig/NeuroBCI Multi-Brain to Multi-Robot Interaction through EEG-Adaptive Neural Networks and Semantic Communications.png" alt="NeuroBCI">
@@ -22,7 +22,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - <strong>Jinhui Ouyang</strong>, Mingxia Yu, Weiren Yu, Zheng Qin, Amelia C Regan, Di Wu. <a href="https://ieeexplore.ieee.org/abstract/document/10379520/">"TPGraph: A Spatial-Temporal Graph Learning Framework for Accurate Traffic Prediction on Arterial Roads."</a> IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.
+    - <strong>Jinhui Ouyang</strong>, Mingxia Yu, Weiren Yu, Zheng Qin, Amelia C Regan, Di Wu. ["TPGraph: A Spatial-Temporal Graph Learning Framework for Accurate Traffic Prediction on Arterial Roads."](https://ieeexplore.ieee.org/abstract/document/10379520/) IEEE Transactions on Intelligent Transportation Systems (T-ITS), 2024.
   </div>
   <div class="pub-fig">
     <div class="pub-fig-group">
@@ -34,7 +34,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Xinglin Li, Hanhui Deng, <strong>Jinhui Ouyang</strong>, Huayan Wan, Weiren Yu, Di Wu. <a href="https://ieeexplore.ieee.org/abstract/document/10144694/">"Act as What You Think: Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning."</a> IEEE Transactions on Mobile Computing (TMC), 2024.
+    - Xinglin Li, Hanhui Deng, <strong>Jinhui Ouyang</strong>, Huayan Wan, Weiren Yu, Di Wu. ["Act as What You Think: Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning."](https://ieeexplore.ieee.org/abstract/document/10144694/) IEEE Transactions on Mobile Computing (TMC), 2024.
   </div>
   <div class="pub-fig">
     <img src="static/pub_fig/Act as What You Think Towards Personalized EEG Interaction through Attentional and Embedded LSTM Learning.png" alt="Act as What You Think">
@@ -45,7 +45,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Peixuan Xiong*, <strong>Jinhui Ouyang*</strong>, Zhiqing Wu, Yukai Zhang, Chen Gong, Yuling Wang, Mingming Fan. <a href="https://dl.acm.org/doi/abs/10.1145/3770642">"Toward Designing Motor Imagery-Driven Hand Redirection in Virtual Reality for Upper Limb Rehabilitation."</a> ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2026.
+    - Peixuan Xiong*, <strong>Jinhui Ouyang*</strong>, Zhiqing Wu, Yukai Zhang, Chen Gong, Yuling Wang, Mingming Fan. ["Toward Designing Motor Imagery-Driven Hand Redirection in Virtual Reality for Upper Limb Rehabilitation."](https://dl.acm.org/doi/abs/10.1145/3770642) ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2026.
   </div>
   <div class="pub-fig">
     <div class="pub-fig-group">
@@ -57,7 +57,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - <strong>Jinhui Ouyang</strong>, Yyijie Zhu, Xiang Yuan, Di Wu. <a href="https://dl.acm.org/doi/abs/10.1145/3749542">"DynaGraph: Towards Multi-Scale Traffic Analysis and Generation with Spatial-Temporal Agent Framework."</a> ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2025.
+    - <strong>Jinhui Ouyang</strong>, Yyijie Zhu, Xiang Yuan, Di Wu. ["DynaGraph: Towards Multi-Scale Traffic Analysis and Generation with Spatial-Temporal Agent Framework."](https://dl.acm.org/doi/abs/10.1145/3749542) ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2025.
   </div>
   <div class="pub-fig">
     <div class="pub-fig-group">
@@ -69,7 +69,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Hanhui Deng, Jianan Jiang, Zhiwang Yu, <strong>Jinhui Ouyang</strong>, Di Wu. <a href="https://dl.acm.org/doi/abs/10.1145/3643542">"CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design."</a> ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2024.
+    - Hanhui Deng, Jianan Jiang, Zhiwang Yu, <strong>Jinhui Ouyang</strong>, Di Wu. ["CrossGAI: A Cross-Device Generative AI Framework for Collaborative Fashion Design."](https://dl.acm.org/doi/abs/10.1145/3643542) ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2024.
   </div>
   <div class="pub-fig">
     <img src="static/pub_fig/CrossGAI A Cross-Device Generative AI Framework for Collaborative Fashion Design.png" alt="CrossGAI">
@@ -78,7 +78,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Xinglin Li, Jiajing Chen, <strong>Jinhui Ouyang</strong>, Hanhui Deng, Senem Velipasalar, Di Wu. <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Li_ToThePoint_Efficient_Contrastive_Learning_of_3D_Point_Clouds_via_Recycling_CVPR_2023_paper.html">"ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling."</a> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
+    - Xinglin Li, Jiajing Chen, <strong>Jinhui Ouyang</strong>, Hanhui Deng, Senem Velipasalar, Di Wu. ["ToThePoint: Efficient Contrastive Learning of 3D Point Clouds via Recycling."](https://openaccess.thecvf.com/content/CVPR2023/html/Li_ToThePoint_Efficient_Contrastive_Learning_of_3D_Point_Clouds_via_Recycling_CVPR_2023_paper.html) IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023.
   </div>
   <div class="pub-fig">
     <img src="static/pub_fig/ToThePoint Efficient Contrastive Learning of 3D Point Clouds via Recycling.jpg" alt="ToThePoint">
@@ -87,7 +87,7 @@
 
 <div class="pub-item">
   <div class="pub-text">
-    - Di Wu*, <strong>Jinhui Ouyang*</strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Hanhui Deng, Yongmei Fan, Dakuo Wang, Zhanpeng Jin. <a href="https://dl.acm.org/doi/abs/10.1145/3550334">"DeepBrain: Enabling Fine-Grained Brain-Robot Interaction through Human-centered Learning of Coarse EEG Signals from Low-Cost Devices."</a> ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2023.
+    - Di Wu*, <strong>Jinhui Ouyang*</strong>, Ningyi Dai, Mingzhu Wu, Haodan Tan, Hanhui Deng, Yongmei Fan, Dakuo Wang, Zhanpeng Jin. ["DeepBrain: Enabling Fine-Grained Brain-Robot Interaction through Human-centered Learning of Coarse EEG Signals from Low-Cost Devices."](https://dl.acm.org/doi/abs/10.1145/3550334) ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), 2023.
   </div>
   <div class="pub-fig">
     <div class="pub-fig-group">
