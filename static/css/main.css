@@ -148,9 +148,14 @@ section header h2 {
     position: relative;
     padding-bottom: 1rem;
     margin-bottom: 2rem;
-    opacity: 0;
-    transform: translateY(20px);
     transition: all 0.6s ease;
+}
+
+/* Home 和 Awards section 标题不应用动画 */
+#home header h2,
+#awards header h2 {
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 section header h2.animate {
@@ -185,15 +190,18 @@ section .main-body {
     font-weight: 300;
     line-height: 2.2rem;
     color: var(--h-text-color);
-    opacity: 0;
-    transform: translateY(20px);
-    transition: all 0.6s ease 0.2s;
     max-width: 100%;
 }
 
-section .main-body.animate {
-    opacity: 1;
-    transform: translateY(0);
+/* Home section 不应用动画 */
+#home .main-body {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+#awards .main-body {
+    opacity: 1 !important;
+    transform: none !important;
 }
 
 /* 优化文本行宽，提升阅读体验 */
@@ -473,6 +481,60 @@ footer a:hover {
 
 .loading {
     animation: pulse 2s ease-in-out infinite;
+}
+
+/* 文章和图片并排布局 */
+.pub-item {
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+    align-items: flex-start;
+    padding: 1.5rem;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.pub-item:hover {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0 4px 12px var(--h-shadow);
+}
+
+.pub-text {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-fig {
+    flex: 0 0 300px;
+    max-width: 300px;
+}
+
+.pub-fig img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--h-shadow);
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+.pub-fig img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 24px var(--h-shadow-hover);
+}
+
+@media (max-width: 768px) {
+    .pub-item {
+        flex-direction: column;
+        gap: 1rem;
+    }
+    
+    .pub-fig {
+        flex: 1;
+        max-width: 100%;
+        width: 100%;
+    }
 }
 
 /* 图片和视频展示优化 */

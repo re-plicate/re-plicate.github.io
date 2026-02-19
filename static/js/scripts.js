@@ -113,10 +113,26 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     }, observerOptions);
 
-    // 观察所有需要动画的元素
+    // 观察所有需要动画的元素（排除home和awards section）
     setTimeout(() => {
         const sections = document.querySelectorAll('section');
         sections.forEach(section => {
+            // 跳过home和awards section的动画
+            if (section.id === 'home' || section.id === 'awards') {
+                // 直接显示，不应用动画
+                const headers = section.querySelectorAll('header h2');
+                const mainBodies = section.querySelectorAll('.main-body');
+                headers.forEach(header => {
+                    header.style.opacity = '1';
+                    header.style.transform = 'none';
+                });
+                mainBodies.forEach(body => {
+                    body.style.opacity = '1';
+                    body.style.transform = 'none';
+                });
+                return;
+            }
+            
             const headers = section.querySelectorAll('header h2');
             const mainBodies = section.querySelectorAll('.main-body');
             const figures = section.querySelectorAll('figure');
