@@ -16,6 +16,36 @@ html {
     scroll-behavior: smooth;
 }
 
+/* 限制页面宽度，提升阅读体验 */
+.container {
+    max-width: 900px !important;
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1000px !important;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1100px !important;
+    }
+}
+
+/* 内容区域优化 */
+section .container {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+@media (max-width: 768px) {
+    section .container {
+        padding-left: 1.5rem;
+        padding-right: 1.5rem;
+    }
+}
+
 /* 导航栏优化 */
 .header {
     border-bottom: solid 2px var(--h-accent-color);
@@ -151,18 +181,33 @@ section header h2:hover i {
 
 /* 主体内容优化 */
 section .main-body {
-    font-size: 1.3rem;
+    font-size: 1.15rem;
     font-weight: 300;
-    line-height: 2.4rem;
+    line-height: 2.2rem;
     color: var(--h-text-color);
     opacity: 0;
     transform: translateY(20px);
     transition: all 0.6s ease 0.2s;
+    max-width: 100%;
 }
 
 section .main-body.animate {
     opacity: 1;
     transform: translateY(0);
+}
+
+/* 优化文本行宽，提升阅读体验 */
+section .main-body p {
+    max-width: 100%;
+    text-align: justify;
+    text-justify: inter-ideograph;
+}
+
+@media (min-width: 768px) {
+    section .main-body {
+        font-size: 1.2rem;
+        line-height: 2.3rem;
+    }
 }
 
 /* 卡片式布局 */
@@ -440,6 +485,12 @@ footer a:hover {
     display: block;
     transition: all 0.4s ease;
     cursor: pointer;
+}
+
+/* 确保图片不会超出容器 */
+.main-body figure img {
+    max-width: 100%;
+    width: auto;
 }
 
 .main-body img:hover {
