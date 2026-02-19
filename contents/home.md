@@ -4,7 +4,7 @@
 </a>
 </div>
 
-I am a researcher and engineer with a strong background in industrial engineering and mechanical engineering. I obtained my bachelor's and master's degrees from **Hunan University** and conducted research at **The Hong Kong University of Science and Technology (HKUST)**. Currently, I serve as an **IoT Architect** at a leading semiconductor company, where I design and implement intelligent systems for industrial applications. I am actively seeking **PhD opportunities** to further advance my research in ubiquitous computing and spatial-temporal learning.
+I am a researcher and engineer with a strong background in industrial engineering and mechanical engineering. I obtained my bachelor's and master's degrees from **Hunan University** and conducted research at **The Hong Kong University of Science and Technology (HKUST)**. Currently, I serve as an **IoT Architect** at a leading semiconductor company, where I design and implement cloud-edge multi-agent systems for applications. I am actively seeking **PhD opportunities** to further advance my research in ubiquitous computing and human-centered systems.
 
 ---
 
