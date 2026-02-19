@@ -27,6 +27,45 @@ window.addEventListener('DOMContentLoaded', event => {
         });
     });
 
+    // 导航栏滚动效果
+    let lastScroll = 0;
+    const header = document.querySelector('.header');
+    
+    window.addEventListener('scroll', () => {
+        const currentScroll = window.pageYOffset;
+        
+        if (currentScroll > 100) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+        
+        lastScroll = currentScroll;
+    });
+
+    // 更新导航链接活动状态
+    const updateActiveNav = () => {
+        const sections = document.querySelectorAll('section[id]');
+        const navLinks = document.querySelectorAll('.nav-link');
+        
+        let current = '';
+        sections.forEach(section => {
+            const sectionTop = section.offsetTop;
+            const sectionHeight = section.clientHeight;
+            if (window.pageYOffset >= sectionTop - 200) {
+                current = section.getAttribute('id');
+            }
+        });
+
+        navLinks.forEach(link => {
+            link.classList.remove('active');
+            if (link.getAttribute('href') === `#${current}`) {
+                link.classList.add('active');
+            }
+        });
+    };
+
+    window.addEventListener('scroll', updateActiveNav);
 
     // Yaml
     fetch(content_dir + config_file)
@@ -59,5 +98,75 @@ window.addEventListener('DOMContentLoaded', event => {
             })
             .catch(error => console.log(error));
     })
+
+    // 滚动动画观察器
+    const observerOptions = {
+        threshold: 0.1,
+        rootMargin: '0px 0px -100px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add('animate');
+            }
+        });
+    }, observerOptions);
+
+    // 观察所有需要动画的元素
+    setTimeout(() => {
+        const sections = document.querySelectorAll('section');
+        sections.forEach(section => {
+            const headers = section.querySelectorAll('header h2');
+            const mainBodies = section.querySelectorAll('.main-body');
+            const figures = section.querySelectorAll('figure');
+            const videoWrappers = section.querySelectorAll('.video-wrapper');
+            
+            headers.forEach(header => observer.observe(header));
+            mainBodies.forEach(body => observer.observe(body));
+            figures.forEach(figure => observer.observe(figure));
+            videoWrappers.forEach(wrapper => observer.observe(wrapper));
+        });
+    }, 500);
+
+    // 平滑滚动增强
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            const target = document.querySelector(this.getAttribute('href'));
+            if (target) {
+                const headerOffset = 80;
+                const elementPosition = target.getBoundingClientRect().top;
+                const offsetPosition = elementPosition + window.pageYOffset - headerOffset;
+
+                window.scrollTo({
+                    top: offsetPosition,
+                    behavior: 'smooth'
+                });
+            }
+        });
+    });
+
+    // 视差滚动效果（轻微）
+    window.addEventListener('scroll', () => {
+        const scrolled = window.pageYOffset;
+        const topSection = document.querySelector('.top-section');
+        if (topSection) {
+            const rate = scrolled * 0.5;
+            topSection.style.transform = `translateY(${rate}px)`;
+        }
+    });
+
+    // 鼠标移动视差效果（头像）
+    const avatar = document.querySelector('#avatar img');
+    if (avatar) {
+        document.addEventListener('mousemove', (e) => {
+            const mouseX = e.clientX / window.innerWidth;
+            const mouseY = e.clientY / window.innerHeight;
+            const moveX = (mouseX - 0.5) * 10;
+            const moveY = (mouseY - 0.5) * 10;
+            avatar.style.transform = `translate(${moveX}px, ${moveY}px) scale(1.05)`;
+        });
+    }
 
 }); 
