@@ -483,72 +483,100 @@ footer a:hover {
     animation: pulse 2s ease-in-out infinite;
 }
 
-/* 文章和图片并排布局 */
-.pub-item {
-    display: flex;
-    gap: 2rem;
-    margin-bottom: 2.5rem;
-    align-items: flex-start;
-    padding: 1.5rem;
-    background: rgba(255, 255, 255, 0.5);
+/* 文章条目 - 悬停显示图片 */
+.pub-entry {
+    position: relative;
+    margin-bottom: 1.5rem;
+    padding: 1rem;
     border-radius: 8px;
     transition: all 0.3s ease;
 }
 
-.pub-item:hover {
-    background: rgba(255, 255, 255, 0.8);
-    box-shadow: 0 4px 12px var(--h-shadow);
+.pub-entry:hover {
+    background: rgba(255, 255, 255, 0.6);
+    box-shadow: 0 2px 8px var(--h-shadow);
 }
 
-.pub-text {
-    flex: 1;
-    min-width: 0;
+.pub-content {
+    position: relative;
+    z-index: 1;
 }
 
-.pub-fig {
-    flex: 0 0 300px;
-    max-width: 300px;
-    height: 400px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    overflow: hidden;
+/* 悬停显示的图片容器 */
+.pub-hover-fig {
+    position: absolute;
+    left: 100%;
+    top: 0;
+    margin-left: 2rem;
+    width: 350px;
+    max-height: 500px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateX(-10px);
+    transition: all 0.3s ease;
+    z-index: 1000;
+    pointer-events: none;
 }
 
-.pub-fig img {
+.pub-entry:hover .pub-hover-fig {
+    opacity: 1;
+    visibility: visible;
+    transform: translateX(0);
+    pointer-events: auto;
+}
+
+.pub-hover-fig img {
     width: 100%;
     height: auto;
-    border-radius: 8px;
-    box-shadow: 0 4px 12px var(--h-shadow);
-    transition: all 0.4s ease;
-    cursor: pointer;
+    max-height: 500px;
     object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px var(--h-shadow-hover);
+    background: #fff;
+    padding: 0.5rem;
 }
 
 /* 图片组合容器 */
 .pub-fig-group {
     display: flex;
     flex-direction: column;
-    gap: 0.2rem;
-    height: 100%;
-    justify-content: center;
+    gap: 0.3rem;
+    background: #fff;
+    padding: 0.5rem;
+    border-radius: 8px;
+    box-shadow: 0 8px 24px var(--h-shadow-hover);
 }
 
 .pub-fig-group img {
     width: 100%;
     height: auto;
-    max-height: calc(50% - 0.1rem);
+    max-height: calc(50% - 0.15rem);
     object-fit: contain;
     border-radius: 4px;
-    box-shadow: 0 2px 8px var(--h-shadow);
-    transition: all 0.4s ease;
-    cursor: pointer;
 }
 
-.pub-fig img:hover,
-.pub-fig-group img:hover {
-    transform: scale(1.05);
-    box-shadow: 0 8px 24px var(--h-shadow-hover);
+/* 响应式设计 */
+@media (max-width: 1200px) {
+    .pub-hover-fig {
+        width: 300px;
+        max-height: 400px;
+    }
+}
+
+@media (max-width: 768px) {
+    .pub-hover-fig {
+        position: fixed;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%) scale(0.9);
+        width: 90vw;
+        max-width: 400px;
+        margin-left: 0;
+    }
+    
+    .pub-entry:hover .pub-hover-fig {
+        transform: translate(-50%, -50%) scale(1);
+    }
 }
 
 @media (max-width: 768px) {
