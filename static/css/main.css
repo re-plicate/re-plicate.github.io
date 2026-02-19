@@ -508,6 +508,11 @@ footer a:hover {
 .pub-fig {
     flex: 0 0 300px;
     max-width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    overflow: hidden;
 }
 
 .pub-fig img {
@@ -517,9 +522,31 @@ footer a:hover {
     box-shadow: 0 4px 12px var(--h-shadow);
     transition: all 0.4s ease;
     cursor: pointer;
+    object-fit: contain;
 }
 
-.pub-fig img:hover {
+/* 图片组合容器 */
+.pub-fig-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    height: 100%;
+    justify-content: center;
+}
+
+.pub-fig-group img {
+    width: 100%;
+    height: auto;
+    max-height: calc(50% - 0.25rem);
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px var(--h-shadow);
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+.pub-fig img:hover,
+.pub-fig-group img:hover {
     transform: scale(1.05);
     box-shadow: 0 8px 24px var(--h-shadow-hover);
 }
